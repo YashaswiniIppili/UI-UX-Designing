@@ -8,3 +8,4 @@ Just keeping track of my UI UX prototypes and wireframes.
 ![Web Tech Wireframe](https://github.com/YashaswiniIppili/UI-UX-Designing/assets/92773216/5724b17e-3fd6-40f0-8f08-7086dc483826)
 
 ## Kodikon Wireframe
+![Kodikon Wireframe](https://github.com/YashaswiniIppili/UI-UX-Designing/assets/92773216/34830881-5cc4-45f4-b265-a99f0a512ca7)
