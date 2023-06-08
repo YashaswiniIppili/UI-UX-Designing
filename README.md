@@ -9,3 +9,6 @@ Just keeping track of my UI UX prototypes and wireframes.
 
 ## Kodikon Wireframe
 ![Kodikon Wireframe](https://github.com/YashaswiniIppili/UI-UX-Designing/assets/92773216/34830881-5cc4-45f4-b265-a99f0a512ca7)
+
+## Infographic 
+![Infographic](https://github.com/YashaswiniIppili/UI-UX-Designing/assets/92773216/9de89c94-cdc8-447c-b6fa-3cc66a230142)
